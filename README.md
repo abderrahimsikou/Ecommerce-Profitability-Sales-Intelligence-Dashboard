@@ -52,7 +52,7 @@ This page provides a high-level overview of overall business performance through
 
 The goal was to enable quick executive-level decision making.
 
-<img width="1039" height="596" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/960aaeb2-d6bf-47a0-8c79-2e75e6b3ee31" />
+<img width="1039" height="596" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/3391656f-e979-4a72-a0ae-a96f16b92ba4" />
 
 ### Profitability Analysis Dashboard
 
@@ -67,7 +67,7 @@ The analysis highlights:
 
 The objective was to uncover hidden profit opportunities and operational inefficiencies.
 
-<img width="1040" height="598" alt="Profitability_Dashboard" src="https://github.com/user-attachments/assets/3d3c25a2-aa9f-4bfc-8ff2-b55b1818847d" />
+<img width="1040" height="598" alt="Profitability_Dashboard" src="https://github.com/user-attachments/assets/6fc32cff-ff3d-4524-8df5-9d3bdf380ad6" />
 
 ## Data Workflow
 
@@ -87,7 +87,7 @@ Business Insights & Recommendations
 
 The project included relational data modeling inside Power BI to support scalable KPI analysis and dashboard performance.
 
-<img width="1040" height="598" alt="Data_Modeling" src="https://github.com/user-attachments/assets/3d3c25a2-aa9f-4bfc-8ff2-b55b1818847d" />
+<img width="961" height="486" alt="Data_Modeling" src="https://github.com/user-attachments/assets/a60589e6-a7a7-404c-864b-3ce18b107a62" />
 
 ## Key Insights
 
