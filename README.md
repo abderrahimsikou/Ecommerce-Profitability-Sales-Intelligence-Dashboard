@@ -71,17 +71,17 @@ The objective was to uncover hidden profit opportunities and operational ineffic
 
 ## Data Workflow
 
-Raw Ecommerce Data
-        ↓
-Power Query Data Cleaning
-        ↓
-Data Modeling & Relationships
-        ↓
-DAX KPI Development
-        ↓
-Interactive Dashboard Design
-        ↓
-Business Insights & Recommendations
+- Raw Ecommerce Data
+-         ↓
+- Power Query Data Cleaning
+-         ↓
+- Data Modeling & Relationships
+-         ↓
+- DAX KPI Development
+-         ↓
+- Interactive Dashboard Design
+-         ↓
+- Business Insights & Recommendations
 
 ## Data Modeling
 
